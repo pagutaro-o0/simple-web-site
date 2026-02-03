@@ -1,0 +1,5 @@
+body { font-family: system-ui, sans-serif; margin: 0; }
+.container { max-width: 900px; margin: 0 auto; padding: 24px; }
+header { border-bottom: 1px solid #ddd; }
+nav a { margin-right: 12px; }
+button { padding: 10px 14px; }
