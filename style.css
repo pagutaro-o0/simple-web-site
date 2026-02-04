@@ -66,3 +66,24 @@ button:hover {
   font-size: 1.2rem;
   color: #00f2fe;
 }
+
+#members a {
+  color: #e8ecff;           
+  text-decoration: none;    
+  font-weight: 700;
+}
+
+#members a:hover {
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+
+
+#members a:visited {
+  color: #e8ecff;
+}
+#members a:hover {
+  color: #7aa2ff;
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
